@@ -13,7 +13,7 @@
 **Tema:** Expansão urbana e fragmentação do cerrado: impactos na fauna silvestre
 **Tecnologia:** Python + Flask + SQLite
 
----
+---    
 
 ## 🎯 O que o sistema faz
 
